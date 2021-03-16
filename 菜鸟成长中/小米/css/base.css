@@ -1,0 +1,22 @@
+/* 公共样式 */
+/* 字体 */
+body{
+    font: 14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    color: #333333;
+    /* 设置内容最小宽度 */
+    min-width: 1226px;
+    
+}
+/* 清除浮动 */
+.clearfix::before,
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+/* 设置内容的宽度
+    内容居中 */
+.w{
+    width: 1226px;
+    margin:0 auto;
+}

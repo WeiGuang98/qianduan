@@ -1,0 +1,11 @@
+html5+css+js
+jQuery
+MongoDB+mongoose 
+Nodejs+express
+Ajax
+ES6
+Js模块化
+git
+webpack
+promise
+axios
